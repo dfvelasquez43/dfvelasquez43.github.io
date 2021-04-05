@@ -5,7 +5,7 @@
 }
 
 body {
-	background: #ddeefc;
+	background: #e6f1fa;
 	font-family: 'Lato', sans-serif;
 }
 
@@ -172,7 +172,7 @@ body {
 	height: 50px;
 	font-size: 20px;
 	line-height: 20px;
-	background: #2364d2;
+	background: #e30613;
 	color: #fff;
 	position: relative;
 	top: -25px;
@@ -186,7 +186,7 @@ body {
 }
 
 .contenedor-btn .btn-abrir-formulario:hover {
-	background: #1850b1;
+	background: #e30613;
 }
 
 .contenedor-btn .btn-abrir-formulario.active {
